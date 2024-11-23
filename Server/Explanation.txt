@@ -1,0 +1,3 @@
+Use Flask as the server and run app.py. The client is currently set to port 5000, but this can be customized.
+
+The MP3 music service can be hosted using any web server.

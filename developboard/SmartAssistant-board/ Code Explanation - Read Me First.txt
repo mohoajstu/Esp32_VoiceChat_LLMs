@@ -1,0 +1,3 @@
+In the code, you need to fill in your own WiFi username and password, the token you applied for, and your API Key and Secret Key (from iFlytek).
+
+Both authentication and music playback are handled by your own server. The relevant code can be found in the server directory.
